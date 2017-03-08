@@ -1,37 +1,114 @@
 ---
+title: "TVM Conference, Dec 5th 2019, Seattle"
 layout: index
-title: "CS599"
-description: "DLSys Course UW"
+order : 12
+description: "TVM"
 ---
 {% include JB/setup %}
 
-# Course Information
-
-Over the past few years, deep learning has become an important technique to successfully solve problems in many different fields, such as vision, NLP, robotics. An important ingredient that is driving this success is the development of deep learning systems that efficiently support the task of learning and inference of complicated models using many devices and possibly using distributed resources. The study of how to build and optimize these deep learning systems is now an active area of research and commercialization, and yet there isn’t a course that covers this topic.
-
-This course is designed to fill this gap.  We will be covering various aspects of deep learning systems, including: basics of deep learning, programming models for expressing machine learning models, automatic differentiation, memory optimization, scheduling, distributed learning, hardware acceleration, domain specific languages, and model serving. Many of these topics intersect with existing research directions in databases, systems and networking, architecture and programming languages. The goal is to offer a comprehensive picture on how deep learning systems works, discuss and execute on possible research opportunities, and build open-source software that will have broad appeal.
-
-We will have two classes per week. Each week will have one lecture and another lab/discussion session.
-Each lecture will study a specific aspect of deep learning systems. The lab/discussion session will contain tutorials to implement that specific aspect
-and will include case studies of existing systems, such as Tensorflow, Caffe, Mxnet, PyTorch, and others.
-
-## Instructors
-- [Tianqi Chen](http://homes.cs.washington.edu/~tqchen/)
-- [Haichen Shen](http://homes.cs.washington.edu/~haichen/)
-- [Arvind Krishnamurthy](http://www.cs.washington.edu/people/faculty/arvind)
+<br>
 
 
-## Prerequisites
-- Proficiency in Python, familar in C/C++
-  - We will mainly be using python for case study the existing systems,
-    and C/C++ for some of the background hacking.
-- A Machine Learning course, CSE546
-- Prior knowledge in system (operation system/database) is useful but not required.
+# About
 
-## Homeworks and Grading
+Apache (incubating) TVM is an open-source deep learning compiler stack for CPUs, GPUs, and specialized accelerators. It aims to close the gap between the productivity-focused deep learning frameworks, and the performance- or efficiency-oriented hardware backends.
 
-We will have two assignments and one final project.
+We are excited to hold a conference on the state of the art of deep learning compilation optimization. We welcome TVM contributors, potential users, [UW SAMPL](http://sampl.ai) sponsors, collaborators and researchers and practitioners from the broader community. The conference will discuss recent advances in frameworks, compilers, systems and architecture support, security, training and hardware acceleration.
 
-- Course project: 60%
-- Homeworks: 30%
-- Discussion participation: 10%
+<br>
+
+# Program
+
+Presentation slides and video recordings are now available.
+
+| Time           |                                                            |
+|----------------|-------------------------------------------------------------|
+| 9:00  | Keynote and Community Update -- Luis Ceze, Jeff Gehlhaar, Yida Wang, Zach Tatlock, Jason Knight, Tianqi Chen [[Video]](https://youtu.be/npqO0hVXZwU?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=1)  [[Slides]](slides/2019/tvmconf-keynote-dec19.pdf)|
+| 10:00 | TVM @ AWS -- Yida Wang and Zhi Chen, AWS [[Video]](https://youtu.be/npqO0hVXZwU?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=3542) [[Slides]](slides/2019/Yida-Wang-Zhi-Chen-AWS.pdf)|
+| 10:40 | TVM @ FB -- Andrew Tulloch and Bram Wasti, Facebook [[Video]](https://youtu.be/npqO0hVXZwU?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=5861) [[Slides]](slides/2019/Andrew-Tulloch-Bram-Wasti-FB.pdf)|
+| **11:10** | **break** |
+| 11:30  | AI Compilers at Alibaba -- Xiaoyong Liu, Alibaba [[Video]](https://youtu.be/EMSLbMfAJ8U?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=24) [[Slides]](slides/2019/Xiaoyong-Liu-Alibaba.pdf)||
+| 12:00  | Dynamic Execution and Virtual Machine, Jared Roesch and Haichen Shen, UW and AWS [[Video]](https://youtu.be/EMSLbMfAJ8U?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=1798) [[Slides]](slides/2019/Jared-Roesch-Haichen-Shen-RelayVM.pdf) |
+| **12:20**  | **Lunch started(boxed lunches will be provided)**, contributors meetup |
+| 13:10  | **Lunch Lightning talk session** |
+|        | Techniques for Fast End-to-End Binarized Networks -- Josh Fromm, OctoML and UW [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=9) [[Slides]](slides/2019/L01-Josh-Fromm.pdf) |
+|        | TensorCore and Tensorization -- Siyuan Feng, SJTU and UW [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=361) [[Slides]](slides/2019/L02-Siyuan-Feng.pdf) ||
+|        | Automatic TensorCore Scheduling -- Xiaoyong Liu, Alibaba [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=625) [[Slides]](slides/2019/L03-Xiaoyong-Liu.pdf) ||
+|        | Dynamic Model - Graph Dispatching -- Yao Wang, AWS [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=911) [[Slides]](slides/2019/L04-Yao-Wang.pdf) ||
+|        | Efficient quantized inference on CUDA with TVM -- Wuwei Lin, CMU [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=1186) [[Slides]](slides/2019/L05-Wuwei-Lin.pdf) ||
+|        | uTVM: TVM on bare-metal devices  -- Logan Weber, UW [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=1479) [[Slides]](slides/2019/L06-Logan-Weber.pdf) ||
+| 13:40 | Building FPGA-Targeted Accelerators with HeteroCL -- Zhiru Zhang, Cornell [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=1762) [[Slides]](slides/2019/Zhiru-Zhang-HetroCL.pdf)|
+| 14:10 | TVM @ Microsoft -- Jon Soifer and Minjia Zhang [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=3547)  [[Slides]](slides/2019/Jon-Soifer-Minjia-Zhang-Microsoft.pdf)|
+| 14:30 | TVM @ ARM  -- Ramana Radhakrishnan [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=4478) [[Slides]](slides/2019/Ramana-Radhakrishnan-ARM.pdf)|
+| 14:50 | TVM @ Xilinx -- Elliott Delaye [[Video]](https://youtu.be/WDo-k0syZi4?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=5856) [[Slides]](slides/2019/Elliott-Delaye-Xilinx.pdf)|
+| **15:10** | **break** |
+| 15:30 | TVM @ OctoML -- Jason Knight [[Video]](https://youtu.be/DoKeicm1hH0?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=728) [[Slides]](slides/2019/Jason-Knight-OctoML.pdf)|
+| 15:50 | TVM @ Qualcomm  -- Krzysztof Parzyszek [[Video]](https://youtu.be/DoKeicm1hH0?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=1705) [[Slides]](slides/2019/Krzysztof-Parzyszek-Qualcomm.pdf)|
+| 16:10 |  TASO: Optimizing Deep Learning Computation with Automated Generation of Graph Substitutions -- Zhihao Jia, Stanford [[Video]](https://youtu.be/DoKeicm1hH0?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=3000) [[Slides]](slides/2019/Zhihao-Jia-TASO.pdf)|
+| 16:30 | Towards cross-domain co-optimization -- Nilesh Jain, Intel Labs |
+| **16:50** | **break** |
+| **17:00** | **Lightning talks session** |
+|       | Graph Convolutional Cost Models for TVM -- Eddie Yan, UW [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=58) [[Slides]](slides/2019/E01-Eddie-Yan.pdf)|
+|       | Janus: Fast and Flexible Deep Learning via Symbolic Graph Execution of Imperative Deep Learning Programs -- Eunji Jeong, Seoul National University [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=327) [[Slides]](slides/2019/E02-Eunji-Jeong.pdf)|
+|       | Towards an operational model of schedules in Tensor Expression -- Yuan Lin and Yongfeng Gu, NVIDIA [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=610) [[Slides]](slides/2019/E03-Yuan-Lin-Yongfeng-Gu.pdf)|
+|       | Fireiron – A Scheduling Language for GPUs -- Vinod Grover, NVIDIA [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=912) [[Slides]](slides/2019/E04-Vinod-Grover.pdf)||
+|       | TVM for ads ranking stack, opportunities and challenges -- Hao Lu and Ansha Yu, Facebook [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=1243) [[Slides]](slides/2019/E05-Hao-Lu-Ansha-Yu.pdf)||
+|       | TVM for edge computing platforms --  Morita Kazutaka, NTT  [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=1553) [[Slides]](slides/2019/E06-Kazutaka-Morita.pdf)||
+|       | Improving AutoTVM Efficiency by Schedule Sharing -- Cody Yu, AWS [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=1822) [[Slides]](slides/2019/E07-Cody-Yu.pdf)||
+|       | Supporting TVM on RISC-V Architectures with SIMD  Computations – Jenq-Kuen Lee, NTHU [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=2067) [[Slides]](slides/2019/E08-Jenq-Kuen-Lee.pdf)||
+|       | Optimizing sparse/graph kernels via TVM -- Yuwei Hu, Cornell and AWS [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=2453)  [[Slides]](slides/2019/E09-Yuwei-Hu.pdf)||
+|       | Integrating model pre-processing functionality into TVM -- Abelardo Lopez-Lagunas, Latent AI [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=2731)  [[Slides]](slides/2019/E10-Abelardo-Lopez-Lagunas.pdf)||
+|       | Deep Learning Program Analysis with Relay -- Gus Smith, UW [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=3042) [[Slides]](slides/2019/E11-Gus-Smith.pdf)||
+|       | Tapasco: Task-Parallel System Composer for FPGAs -- Florian Stock, TU Darmstadt [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=3350) [[Slides]](slides/2019/E12-Florian-Stock.pdf)||
+|       | Compiling Classical ML Pipelines into Tensor Computations for One-size-fits-all Prediction Serving -- Matteo Interlandi, Microsoft [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=3817) [[Slides]](slides/2019/E13-Matteo-Interlandi.pdf)||
+|       | DRAM access reduction by node fusion with TVM -- Chia-Wei Chang, NTHU [[Video]](https://youtu.be/7-EaUUC6QZs?list=PLTPQEx-31JXjA2ZmvYT5s0RqDXFXTSjyL&t=4163) [[Slides]](slides/2019/E14-Chia-Wei-Chang.pdf)||
+| *18:10 to 20:00* | *Social (drinks, food)* |
+|----------------|-------------------------------------------------------------|
+
+
+# Register
+
+
+<br>
+
+<a href="https://www.eventbrite.com/e/2019-tvm-conference-tickets-74626711503" class="link-btn">Click to Register</a>
+
+<br>
+
+# Hotels
+
+Here is a list of hotels that are close to the UW campus.
+
+- [Watertown Hotel](https://www.yelp.com/biz/watertown-hotel-seattle)
+  - (206) 826-4242
+  - 4242 Roosevelt Way NE, Seattle, WA 98105
+- [Residence Inn by Marriott - University District](https://www.marriott.com/hotels/travel/seaud-residence-inn-seattle-university-district/)
+  - (206) 322-8887
+  - 4501 12th Avenue NE, Seattle, Washington 98105 USA
+- [University Inn](https://www.yelp.com/biz/university-inn-seattle-3)
+  - (206) 632-5055
+  - 4140 Roosevelt Way NE, Seattle, WA 98105
+
+
+
+# Follow us on Twitter
+
+<br>
+
+<a href="https://twitter.com/ApacheTVM?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ApacheTVM</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<a class="twitter-timeline" width="500" height="700" href="https://twitter.com/ApacheTVM?ref_src=twsrc%5Etfw">Tweets by ApacheTVM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+# Past Conferences
+
+- [TVM Conference 2018](2018)
+
+
+
+
+
+
+
+
+
+

@@ -14,12 +14,12 @@
     {% else %}
        {% assign BASE_PATH = nil %}
        {% assign HOME_PATH = '' %}
-       {% assign BLOG_PATH = site.JB.BLOG_PATH %}
+       {% assign BLOG_PATH = '' %}
     {% endif %}
 
     {% if site.github %}
-       {% assign BASE_PATH = nil %}
-       {% assign BLOG_PATH = nil %}
+       {% assign BASE_PATH = site.JB.BASE_PATH %}
+       {% assign BLOG_PATH = site.JB.BASE_PATH %}
     {% endif %}
 
     {% if site.JB.ASSET_PATH %}
