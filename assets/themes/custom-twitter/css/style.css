@@ -411,3 +411,14 @@ body {
 .highlight {
   background-color: #f8f8f8;
 }
+
+footer {
+  position: center;
+  text-align: center;
+  font-size: 10px;
+  color: #8e8a8a;
+}
+
+.footer-link {
+  color: #8e8a8a;
+}
