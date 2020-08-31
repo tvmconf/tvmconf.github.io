@@ -19,7 +19,8 @@ art of deep learning compilation optimization. We welcome TVM contributors, pote
 sponsors, collaborators and researchers and practitioners from the broader community. The conference will discuss recent
 advances in frameworks, compilers, systems and architecture support, security, training and hardware acceleration.
 
-More details coming soon!
+**The [CFP for TVM Conf is now open](https://forms.gle/riPpB2gs4Wfu2ezk7)**, and is accepting proposals until
+September 25, 2020. Schedule and registration are scheduled to open in mid-October.
 
 # Follow us on Twitter
 
