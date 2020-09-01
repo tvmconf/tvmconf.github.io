@@ -10,7 +10,7 @@ description: "TVM"
 
 # About
 
-Apache (incubating) TVM is an open-source deep learning compiler stack for CPUs, GPUs, and specialized accelerators.
+[Apache (incubating) TVM](https://tvm.apache.org/) is an open-source deep learning compiler stack for CPUs, GPUs, and specialized accelerators.
 It aims to close the gap between the productivity-focused deep learning frameworks, and the performance- or
 efficiency-oriented hardware backends.
 
@@ -32,13 +32,3 @@ September 25, 2020. Schedule and registration are scheduled to open in mid-Octob
 
 - [TVM Conference 2019](2019)
 - [TVM Conference 2018](2018)
-
-
-
-
-
-
-
-
-
-
