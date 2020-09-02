@@ -22,13 +22,28 @@ advances in frameworks, compilers, systems and architecture support, security, t
 **The [CFP for TVM Conf is now open](https://forms.gle/riPpB2gs4Wfu2ezk7)**, and is accepting proposals until
 September 25, 2020. Schedule and registration are scheduled to open in mid-October.
 
-# Follow us on Twitter
+
+## Resources
+
+- [Code of conduct](https://www.apache.org/foundation/policies/conduct.html).
+
+## Community Sponsor
+
+<div class="community_logo">
+    <a href="https://apache.org">
+        <img src="images/logo/asf.png" height="100"/>
+    </a>
+</div>
+
+
+
+## Follow us on Twitter
 
 <a href="https://twitter.com/ApacheTVM?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @ApacheTVM</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <br>
 <a class="twitter-timeline" width="500" height="700" href="https://twitter.com/ApacheTVM?ref_src=twsrc%5Etfw">Tweets by ApacheTVM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-# Past Conferences
+## Past Conferences
 
 - [TVM Conference 2019](2019)
 - [TVM Conference 2018](2018)
