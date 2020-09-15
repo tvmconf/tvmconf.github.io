@@ -14,7 +14,7 @@ description: "TVM"
 It aims to close the gap between the productivity-focused deep learning frameworks, and the performance- or
 efficiency-oriented hardware backends.
 
-We are excited to announce the 2020 TVM Virtual Conference, December 4-5. The TVM Conference will cover the state of the
+We are excited to announce the 2020 TVM Virtual Conference, December 3-4. The TVM Conference will cover the state of the
 art of deep learning compilation optimization. We welcome TVM contributors, potential users, [UW SAMPL](http://sampl.ai)
 sponsors, collaborators and researchers and practitioners from the broader community. The conference will discuss recent
 advances in frameworks, compilers, systems and architecture support, security, training and hardware acceleration.
