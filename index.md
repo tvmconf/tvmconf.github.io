@@ -19,8 +19,6 @@ art of deep learning compilation optimization. We welcome TVM contributors, pote
 sponsors, collaborators and researchers and practitioners from the broader community. The conference will discuss recent
 advances in frameworks, compilers, systems and architecture support, security, training and hardware acceleration.
 
-
-
 ## Resources
 
 - [Code of conduct](https://www.apache.org/foundation/policies/conduct.html).
@@ -33,7 +31,45 @@ advances in frameworks, compilers, systems and architecture support, security, t
     </a>
 </div>
 
+## 2020 Program
 
+Preliminary schedule, subject to change. More details coming soon!
+
+### Day 1 - Thursday December 3 
+
+| Time  | Session  |
+|-------|----------|
+|  9:00 | Keynotes | 
+| 10:00 | Break |
+| 10:15 | TVM @ AWS |
+| 10:45 | TVM and New Technologies |
+| 11:10 | Break |
+| 11:20 | Invited Talk |
+| 11:50 | TVM Tech Talk |
+| 12:10 | Lunch |
+| 12:50 | TVM @ ARM |
+| 13:20 | TVM @ OctoML |
+| 13:40 | Break |
+| 14:00 | Lightning Talks |
+
+### Day 2 - Friday December 4
+
+| Time  | Session  |
+|-------|----------|
+|  9:00 | Invited Talk | 
+|  9:30 | Invited Talk |
+| 10:00 | Break |
+| 10:15 | TBD |
+| 10:35 | TVM @ Alibaba |
+| 10:55 | TVM @ Bosch |
+| 11:15 | Break |
+| 11:30 | TVM @ Qualcomm |
+| 11:50 | TVM @ AMD |
+| 12:10 | Lunch |
+| 12:50 | Long Tech Talk - Ansor |
+| 13:10 | TVM Object System and Multi-Language Support |
+| 13:20 | Break |
+| 13:40 | Lightning Talks |
 
 ## Follow us on Twitter
 
