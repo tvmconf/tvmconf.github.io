@@ -1,5 +1,5 @@
 ---
-title: "TVM Conference, Dec 3rd-4th 2020"
+title: "TVM Conference, Dec 2nd-4th 2020"
 layout: index
 order : 12
 description: "TVM"
@@ -14,13 +14,10 @@ description: "TVM"
 It aims to close the gap between the productivity-focused deep learning frameworks, and the performance- or
 efficiency-oriented hardware backends.
 
-We are excited to announce the 2020 TVM Virtual Conference, December 4-5. The TVM Conference will cover the state of the
+We are excited to announce the 2020 TVM Virtual Conference, December 2-4. The TVM Conference will cover the state of the
 art of deep learning compilation optimization. We welcome TVM contributors, potential users, [UW SAMPL](http://sampl.ai)
 sponsors, collaborators and researchers and practitioners from the broader community. The conference will discuss recent
 advances in frameworks, compilers, systems and architecture support, security, training and hardware acceleration.
-
-**The [CFP for TVM Conf is now open](https://forms.gle/riPpB2gs4Wfu2ezk7)**, and is accepting proposals until
-September 25, 2020. Schedule and registration are scheduled to open in mid-October.
 
 
 
