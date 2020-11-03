@@ -18,12 +18,10 @@ body {
   height: 600px;
   margin-top: -4px;
   background-repeat: no-repeat, no-repeat, no-repeat;
-  background-position: 4% 60%,  96% 60%, center;
-  background-size: 22%, 20%, 100%;
-  background-image:
-     url("https://tvm.ai/images/logo/tvm-banner-left-objs-white.svg"),
-     url("https://tvm.ai/images/logo/tvm-banner-right-objs-white.svg"),
-     linear-gradient(175deg, #46A0F8, #333333);
+  background-position: center;
+  background-size: contain;
+  background-image: url("tvmconf-2020.png"),
+     linear-gradient(5deg, #555555, #111111);
 }
 
 #tvm-banner-title  {
@@ -35,10 +33,14 @@ body {
 #tvm-banner-title p {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 43px;
-  font-weight: 200;
+  font-weight: 300;
   color: white;
   line-height: 50px;
   text-align: center;
+  text-shadow: -1px 1px 8px #000,
+    1px 1px 8px #000,
+    1px -1px 8px #000,
+    -1px -1px 8px #000;
 }
 
 #tvm-banner-subtitle p {
