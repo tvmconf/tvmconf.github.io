@@ -422,3 +422,14 @@ footer {
 .footer-link {
   color: #8e8a8a;
 }
+
+.partner-logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: space-evenly;
+}
+
+.partner-logo {
+  padding: 35px;
+}

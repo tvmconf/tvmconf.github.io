@@ -23,14 +23,6 @@ advances in frameworks, compilers, systems and architecture support, security, t
 
 - [Code of conduct](https://www.apache.org/foundation/policies/conduct.html).
 
-## Community Sponsor
-
-<div class="community_logo">
-    <a href="https://apache.org">
-        <img src="images/logo/asf.png" height="100"/>
-    </a>
-</div>
-
 ## 2020 Program
 
 Preliminary schedule, subject to change. More details coming soon!
@@ -70,6 +62,47 @@ Preliminary schedule, subject to change. More details coming soon!
 | 13:10 | TVM Object System and Multi-Language Support |
 | 13:20 | Break |
 | 13:40 | Lightning Talks |
+
+## TVMConf Partners
+
+<div class="partner-logos">
+    <div class="partner-logo">
+      <img src="images/partners/amd.png" height="80" />
+    </div>
+
+    <div class="partner-logo">
+      <img src="images/partners/arm.png" height="80" />
+    </div>
+
+    <div class="partner-logo">
+      <img src="images/partners/aws.png" height="80" />
+    </div>
+
+    <div class="partner-logo">
+      <img src="images/partners/ntt.png" height="80" />
+    </div>
+
+    <div class="partner-logo">
+      <img src="images/partners/octoml.png" height="80" />
+    </div>
+
+    <div class="partner-logo">
+      <img src="images/partners/qualcomm.png" height="80" />
+    </div>
+
+    <div class="partner-logo">
+      <img src="images/partners/sima.png" height="80" />
+    </div>
+</div>
+
+## Community Sponsor
+
+<div class="community_logo">
+    <a href="https://apache.org">
+        <img src="images/logo/asf.png" height="100"/>
+    </a>
+</div>
+
 
 ## Follow us on Twitter
 
