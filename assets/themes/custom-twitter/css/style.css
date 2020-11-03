@@ -55,12 +55,14 @@ body {
   color: white;
   font-weight: 400;
   background-color: transparent;
+  text-shadow: none;
 }
 
 #banner-btn:hover {
   background-color: white;
   color: #3e658d;
   font-weight: 400;
+  text-shadow: none;
 }
 .span14 {
   width: 970px;
