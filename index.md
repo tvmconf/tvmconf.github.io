@@ -27,41 +27,49 @@ advances in frameworks, compilers, systems and architecture support, security, t
 
 Preliminary schedule, subject to change. More details coming soon!
 
-### Day 1 - Thursday December 3 
 
-| Time  | Session  |
-|-------|----------|
-|  9:00 | Keynotes | 
-| 10:00 | Break |
-| 10:15 | TVM @ AWS |
-| 10:45 | TVM and New Technologies |
-| 11:10 | Break |
-| 11:20 | Invited Talk |
-| 11:50 | TVM Tech Talk |
-| 12:10 | Lunch |
-| 12:50 | TVM @ ARM |
-| 13:20 | TVM @ OctoML |
-| 13:40 | Break |
-| 14:00 | Lightning Talks |
-
-### Day 2 - Friday December 4
-
-| Time  | Session  |
-|-------|----------|
-|  9:00 | Invited Talk | 
-|  9:30 | Invited Talk |
-| 10:00 | Break |
-| 10:15 | TBD |
-| 10:35 | TVM @ Alibaba |
-| 10:55 | TVM @ Bosch |
-| 11:15 | Break |
-| 11:30 | TVM @ Qualcomm |
-| 11:50 | TVM @ AMD |
-| 12:10 | Lunch |
-| 12:50 | Long Tech Talk - Ansor |
-| 13:10 | TVM Object System and Multi-Language Support |
-| 13:20 | Break |
-| 13:40 | Lightning Talks |
+|                  |**Dec 2 - Tutorials** |                                                                                                                          |                           |
+|------------------|--------------|--------------------------------------------------------------------------------------------------------------------------|---------------------------|
+|Time              |         Title|Speakers                                                                                                                  |Company                    |
+|                  |Introduction to TVM|Chris Hoge                                                                                                                |OctoML                     |
+|                  |TVMC: a command-line driver for TVM|Leandro Nunes                                                                                                             |Arm                        |
+|                  |Bring Your Own Codegen to TVM|Zhi Chen                                                                                                                  |Amazon Web Services        |
+|                  |uTVM: Running the TVM Stack on Bare Metal|Andrew Reusch                                                                                                             |OctoML                     |
+|                  |              |                                                                                                                          |                           |
+|                  |**Dec 3 - Conference** |                                                                                                                          |                           |
+|Time              |         Title|Speakers                                                                                                                  |Company                    |
+|9:00              |Keynote and Community Update|Luis Ceze                                                                                                                 |OctoML                     |
+|10:00             |Break         |                                                                                                                          |                           |
+|10:15             |TVM at AWS,TVM Support for TensorFlow and Pytorch Object Detection Models,Selecting TVM subgraphs in a deep learning model|Yida Wang, Yao Wang, Wei Xiao                                                                                               |Amazon Web Services        |
+|10:45             |TVM @ Imagination, TVM at ImgTech|Ashutosh Parkhi                                                                                                           |Imagination Technologies   |
+|10:51             |TVM @ Synopsys & ITRI|Kerwin Tung                                                                                                               |ITRI (Industrial Technology Research Institute)|
+|10:57             |A Generic Method to Utilize Vendor-specific AI Accelerator on Android Mobile for TVM|Ming-Yu Hung                                                                                                              |MediaTek Inc.              |
+|11:03             |Extending TVM to Support Custom ML Hardware -- the Awesome Front End|Joey Chou                                                                                                                 |SiMa.ai                    |
+|11:10             |Break         |                                                                                                                          |                           |
+|11:20             |TBD           |Joey Gonzalez                                                                                                             |UC Berkeley                |
+|11:50             |Lorien: A Scale-Out System and Database for Auto-Tuning Tensor Programs|Cody Yu                                                                                                                   |Amazon Web Services        |
+|12:10             |Lunch Break   |                                                                                                                          |                           |
+|12:50             |TVM at ARM    |Ramana Radhakrishnan                                                                                                      |Arm                        |
+|13:20             |TVM at OctoML |Jason Knight                                                                                                              |OctoML                     |
+|13:40             |Break         |                                                                                                                          |                           |
+|14:00             |Lightning Talks |Various                                                                                                                   |                           |
+|                  |              |                                                                                                                          |                           |
+|                  |**Dec 4 - Conference**              |                                                                                                                          |                           |
+|Time              |         Title|Speakers                                                                                                                  |Company                    |
+|9:00              |Invited Speaker|                                                                                                                          |                           |
+|9:30              |MLIR Talk from Google|Jacques Pienaar                                                                                                           |Google                     |
+|10:00             |Break         |                                                                                                                          |                           |
+|10:15             |Bringing Vitis-AI hardware acceleration to TVM for cloud and edge|Jorn Tuyls                                                                                                                |Xilinx                     |
+|10:35             |TVM @ Alibaba |Xiaoyong Liu                                                                                                              |Alibaba                    |
+|10:55             |Tech Talk     |                                                                                                                          |                           |
+|11:15             |Break         |                                                                                                                          |                           |
+|11:30             |Tech Talk     |                                                                                                                          |                           |
+|11:50             |TVM for Edge Inference at AMD|Mei Ye                                                                                                                    |AMD                        |
+|12:10             |Lunch Break   |                                                                                                                          |                           |
+|12:50             |Ansor : Generating High-Performance Tensor Programs for Deep Learning (An auto-scheduler for TVM)|Lianmin Zheng                                                                                                             |UC Berkeley                |
+|13:10             |TVM Object System: Multi-language Support for just $19.99|Jared Roesch                                                                                                              |OctoML                     |
+|13:20             |Break         |                                                                                                                          |                           |
+|13:40             |Lightning Talks |Various                                                                                                                   |                           |
 
 ## TVMConf Partners
 
