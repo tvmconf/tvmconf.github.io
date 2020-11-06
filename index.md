@@ -101,6 +101,10 @@ Preliminary schedule, subject to change. More details coming soon!
     <div class="partner-logo">
       <img src="images/partners/sima.png" height="80" />
     </div>
+
+    <div class="partner-logo">
+      <img src="images/partners/xilinx.png" height="80" />
+    </div>
 </div>
 
 ## Community Sponsor
