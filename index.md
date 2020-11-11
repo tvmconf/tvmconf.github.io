@@ -71,12 +71,14 @@ advances in frameworks, compilers, systems and architecture support, security, t
 |          | **Dec 3 - Lightning Talks**   |          |          |
 |----------|----------|----------|----------|
 | Time     | Title    | Speakers | Organization  |
-| 14:00       | Graph-Level Scheduling Optimization with Polyhedral Analysis for Tensor Programs       | Jie Wang       | Amazon Web Services (Amazon AI)       |
+| 14:00       | Graph-Level Scheduling Optimization with Polyhedral Analysis for Tensor Programs       | Jie Wang       | Amazon Web Services  |
 | 14:06       | FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems       | Yuwei Hu       | Cornell University       |
+| 14:12       | UNIT: Unifying the Compilation of Tensorization      | Jian Weng      | UCLA      |
 | 14:18       | RAFT:Accelerating the Tuning Process for  AutoTVM       | HaiWen Fu       | Beihang University       |
 | 14:24       | A TVM IR to MLIR Automatic Converter  :  Bridging TVM with MLIR Ecosystem       | Jinman Zhao       | Huawei Technologies Canada/ University of Toronto       |
 | 14:30       | BERT inference optimization using TVM       | Haichen Shen       | Amazon Web Services       |
 | 14:36       | Writing Sparse Operators in TIR       | Tristan Konolige       | OctoML       |
+| 14:42       | Automatic Differentiation on Tensor Expression      | Yizhi Liu       | Amazon Web Services       |
 | 14:48       | Optimizing Automatic Tuning Process of TVM Based on Parallel Genetic Algorithm       | YuChen Feng       | Beihang University       |
 | 14:54       | Overhauling the Onnx Importer to Support Dyanmism       | Matthew Brookhart       | OctoML       |
 | 15:00       | AdaTune: Adaptive Tensor Program Compilation Made Efficient       | Menghao Li        | Microsoft       |
@@ -86,6 +88,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | Time     | Title    | Speakers | Organization  |
 | 13:40       | Real-time AI on edge servers with TVM       | Kazutaka Morita       | NTT       |
 | 13:46       | Integrating and simulating hardware accelerators in TVM       | Luis Vega       | OctoML       |
+| 13:52       | Tensorization, Scheduling, and Allocation for Machine Learning Inferrence Accelerators      | Randy Huang    | Amazon Web Services       |
 | 13:58       | AArch64 pre-quantized networks performance       | Giuseppe Rossini       | Arm       |
 | 14:04       | Hardware-aware Quantization in TVM       | Ziheng Jiang, Animesh Jain       | OctoML, AWS       |
 | 14:10       | Integrating the Arm Ethos-N NPUs into TVM       | Matthew Barrett       | Arm       |
