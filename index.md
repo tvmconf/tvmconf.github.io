@@ -58,7 +58,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 9:30       | Invited talk       | Jacques Pienaar       | Google       |
 | 10:00       | Break       |        |        |
 | 10:15       | Bringing Vitis-AI hardware acceleration to TVM for cloud and edge       | Jorn Tuyls       | Xilinx       |
-| 10:35       | TVM @ Alibaba       | xiaoyong liu       | Alibaba       |
+| 10:35       | TVM at Alibaba       | xiaoyong liu       | Alibaba       |
 | 10:55       | End-to-End Performance Assessment of AI Systems with TVM and Virtual Models       | Michael J. Klaiber       | Bosch Corporate Research       |
 | 11:15       | Break       |        |        |
 | 11:50       | TVM for Edge Inference at AMD       | Mei Ye       | AMD       |
