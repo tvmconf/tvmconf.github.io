@@ -27,7 +27,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 
 |          | **Dec 2 - Tutorials**   |          |          |
 |----------|----------|----------|----------|
-| Time     | Title    | Speakers | Company  |
+| Time     | Title    | Speakers | Organization  |
 | TBD       | Introduction to TVM       | Chris Hoge       | OctoML       |
 | TBD       | TVMC: a command-line driver for TVM       | Leandro Nunes       | Arm       |
 | TBD       | Bring Your Own Codegen to TVM       | Zhi Chen       | Amazon Web Services       |
@@ -35,7 +35,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 |          |          |          |          |
 |          | **Dec 3 - Conference**   |          |          |
 |----------|----------|----------|----------|
-| Time     | Title    | Speakers | Company  |
+| Time     | Title    | Speakers | Organization  |
 | 9:00       | Keynote and Community Update       | Luis Ceze, Tianqi Chen       | OctoML       |
 | 10:00       | Break       |        |        |
 | 10:15       | TVM at AWS  | Yida Wang,Yao Wang,Wei Xiao       | Amazon Web Services     |
@@ -54,7 +54,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 |          |          |          |          |
 |          | **Dec 4 - Conference**   |          |          |
 |----------|----------|----------|----------|
-| Time     | Title    | Speakers | Company  |
+| Time     | Title    | Speakers | Organization  |
 | 9:30       | Invited talk       | Jacques Pienaar       | Google       |
 | 10:00       | Break       |        |        |
 | 10:15       | Bringing Vitis-AI hardware acceleration to TVM for cloud and edge       | Jorn Tuyls       | Xilinx       |
@@ -70,7 +70,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 |          |          |          |          |
 |          | **Dec 3 - Lightning Talks**   |          |          |
 |----------|----------|----------|----------|
-| Time     | Title    | Speakers | Company  |
+| Time     | Title    | Speakers | Organization  |
 | 14:00       | Graph-Level Scheduling Optimization with Polyhedral Analysis for Tensor Programs       | Jie Wang       | Amazon Web Services (Amazon AI)       |
 | 14:06       | FeatGraph: A Flexible and Efficient Backend for Graph Neural Network Systems       | Yuwei Hu       | Cornell University       |
 | 14:18       | RAFT:Accelerating the Tuning Process for  AutoTVM       | HaiWen Fu       | Beihang University       |
@@ -83,7 +83,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 |          |          |          |          |
 |          | **Dec 4 - Lightning Talks**   |          |          |
 |----------|----------|----------|----------|
-| Time     | Title    | Speakers | Company  |
+| Time     | Title    | Speakers | Organization  |
 | 13:40       | Real-time AI on edge servers with TVM       | Kazutaka Morita       | NTT       |
 | 13:46       | Integrating and simulating hardware accelerators in TVM       | Luis Vega       | OctoML       |
 | 13:58       | AArch64 pre-quantized networks performance       | Giuseppe Rossini       | Arm       |
