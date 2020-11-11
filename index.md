@@ -38,7 +38,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | Time     | Title    | Speakers | Organization  |
 | 9:00       | Keynote and Community Update       | Luis Ceze, Tianqi Chen       | OctoML       |
 | 10:00       | Break       |        |        |
-| 10:15       | TVM at AWS  | Yida Wang,Yao Wang,Wei Xiao       | Amazon Web Services     |
+| 10:15       | TVM at AWS  | Yida Wang, Yao Wang, Wei Xiao       | Amazon Web Services     |
 | 10:45       | TVM at Imagination     | Ashutosh Parkhi       | Imagination Technologies       |
 | 10:51       | TVM at Synopsys & ITRI       | Kerwin Tung       | ITRI (Industrial Technology Research Institute)       |
 | 10:57       | A Generic Method to Utilize Vendor-specific AI Accelerator on Android Mobile for TVM       | Ming-Yu Hung       | MediaTek Inc.       |
@@ -55,12 +55,14 @@ advances in frameworks, compilers, systems and architecture support, security, t
 |          | **Dec 4 - Conference**   |          |          |
 |----------|----------|----------|----------|
 | Time     | Title    | Speakers | Organization  |
+| 9:00       | Invited talk       | David Aronchik       | Microsoft       |
 | 9:30       | Invited talk       | Jacques Pienaar       | Google       |
 | 10:00       | Break       |        |        |
 | 10:15       | Bringing Vitis-AI hardware acceleration to TVM for cloud and edge       | Jorn Tuyls       | Xilinx       |
-| 10:35       | TVM at Alibaba       | xiaoyong liu       | Alibaba       |
+| 10:35       | TVM at Alibaba       | Xiaoyong Liu       | Alibaba       |
 | 10:55       | End-to-End Performance Assessment of AI Systems with TVM and Virtual Models       | Michael J. Klaiber       | Bosch Corporate Research       |
 | 11:15       | Break       |        |        |
+| 11:30       | TVM at Qualcomm       |   Krzysztof Parzyszek   | Qualcomm       |
 | 11:50       | TVM for Edge Inference at AMD       | Mei Ye       | AMD       |
 | 12:10       | Lunch Break       |        |        |
 | 12:50       | Ansor : Generating High-Performance Tensor Programs for Deep Learning (An auto-scheduler for TVM)       | Lianmin Zheng       | UC Berkeley       |
