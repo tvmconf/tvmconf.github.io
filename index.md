@@ -36,7 +36,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 |          | **Dec 3 - Conference**   |          |          |
 |----------|----------|----------|----------|
 | Time     | Title    | Speakers | Company  |
-| 9:00       | Keynote and Community Update       | Luis Ceze       | OctoML       |
+| 9:00       | Keynote and Community Update       | Luis Ceze, Tianqi Chen       | OctoML       |
 | 10:00       | Break       |        |        |
 | 10:15       | TVM at AWS  | Yida Wang,Yao Wang,Wei Xiao       | Amazon Web Services     |
 | 10:45       | TVM at Imagination     | Ashutosh Parkhi       | Imagination Technologies       |
@@ -44,7 +44,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 10:57       | A Generic Method to Utilize Vendor-specific AI Accelerator on Android Mobile for TVM       | Ming-Yu Hung       | MediaTek Inc.       |
 | 11:03       | Extending TVM to Support Custom ML Hardware -- the Awesome Front End       | Joey Chou       | SiMa.ai       |
 | 11:10       | Break       |        |        |
-| 11:20       | TBD       | Joey Gonzalez       | UC Berkeley       |
+| 11:20       | Invited talk       | Joey Gonzalez       | UC Berkeley       |
 | 11:50       | Lorien: A Scale-Out System and Database for Auto-Tuning Tensor Programs       | Cody Yu       | Amazon Web Services      |
 | 12:10       | Lunch Break       |        |        |
 | 12:50       | TVM at ARM       | Ramana Radhakrishnan       | Arm       |
@@ -55,7 +55,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 |          | **Dec 4 - Conference**   |          |          |
 |----------|----------|----------|----------|
 | Time     | Title    | Speakers | Company  |
-| 9:30       | MLIR Talk from Google       | Jacques Pienaar       | Google       |
+| 9:30       | Invited talk       | Jacques Pienaar       | Google       |
 | 10:00       | Break       |        |        |
 | 10:15       | Bringing Vitis-AI hardware acceleration to TVM for cloud and edge       | Jorn Tuyls       | Xilinx       |
 | 10:35       | TVM @ Alibaba       | xiaoyong liu       | Alibaba       |
