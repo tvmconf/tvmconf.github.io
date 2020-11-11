@@ -87,7 +87,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 13:40       | Real-time AI on edge servers with TVM       | Kazutaka Morita       | NTT       |
 | 13:46       | Integrating and simulating hardware accelerators in TVM       | Luis Vega       | OctoML       |
 | 13:58       | AArch64 pre-quantized networks performance       | Giuseppe Rossini       | Arm       |
-| 14:04       | Hardware-aware Quantization in TVM       | Ziheng Jiang       | OctoML       |
+| 14:04       | Hardware-aware Quantization in TVM       | Ziheng Jiang, Animesh Jain       | OctoML, AWS       |
 | 14:10       | Integrating the Arm Ethos-N NPUs into TVM       | Matthew Barrett       | Arm       |
 | 14:16       | Running AI WASM Model Securely in Sandbox using TVM and Wasmtime       | Leon Wang       | Huawei       |
 | 14:22       | Ethos-U55 : microNPU support for uTVM       | Manupa Karunaratne       | Arm       |
