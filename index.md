@@ -28,10 +28,10 @@ advances in frameworks, compilers, systems and architecture support, security, t
 |          | **Dec 2 - Tutorials**    |              |                   |
 |----------|-----------|--------------|-------------------|
 | **Time** | **Title** | **Speakers** | **Organization**  |
-| TBD       | Introduction to TVM        | Chris Hoge           | OctoML                |
-| TBD       | TVMC: A Command-Line Driver for TVM        | Leandro Nunes           | Arm                |
-| TBD       | Bring Your Own Codegen to TVM        | Zhi Chen           | Amazon Web Services                |
-| TBD       | uTVM: Running the TVM Stack on Bare Metal        | Andrew Reusch           | OctoML                |
+| 9:00       | Introduction to TVM        | Chris Hoge           | OctoML                |
+| 10:15       | TVMC: A Command-Line Driver for TVM        | Leandro Nunes           | Arm                |
+| 11:30       | Bring Your Own Codegen to TVM        | Zhi Chen           | Amazon Web Services                |
+| 13:00       | uTVM: Running the TVM Stack on Bare Metal        | Andrew Reusch           | OctoML                |
 |          |           |              |                   |
 |          | **Dec 3 - Conference**    |              |                   |
 |----------|-----------|--------------|-------------------|
