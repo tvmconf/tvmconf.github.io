@@ -38,11 +38,11 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | **Time** | **Title** | **Speakers** | **Organization**  |
 | 9:00       | Keynote and Community Update        | Luis Ceze and Tianqi Chen           | OctoML                |
 | 10:00       | Break        |            |                 |
-| 10:15       | TVM at AWS   | Yida Wang, Yao Wang, Wei Xiao           | Amazon Web Services                |
+| 10:15       | TVM at AWS   | Yida Wang, Yao Wang, Wei Xiao           | Amazon Web Services          |
 | 10:45       | TVM at Imagination        | Ashutosh Parkhi           | Imagination Technologies                |
 | 10:51       | TVM at Synopsys & ITRI        | Kerwin Tung           | ITRI (Industrial Technology Research Institute)                |
 | 10:57       | A Generic Method to Utilize Vendor-Specific AI Accelerator on Android Mobile for TVM        | Ming-Yu Hung           | MediaTek Inc.                |
-| 11:03       | Extending TVM to Support Custom ML Hardware - The Awesome Front End        | Joey Chou           | SiMa.ai                |
+| 11:03       | Extending TVM to Support Custom ML Hardware       | Joey Chou           | SiMa.ai                |
 | 11:10       | Break        |            |                 |
 | 11:20       | Invited Talk        | Joey Gonzalez           | UC Berkeley                |
 | 11:50       | Lorien: A Scale-Out System and Database for Auto-Tuning Tensor Programs        | Cody Yu           | Amazon Web Services                |
@@ -51,24 +51,6 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 13:20       | TVM at OctoML        | Jason Knight           | OctoML                |
 | 13:40       | Break        |            |                 |
 | 14:00       | Lightning Talks         | Various           | Various                |
-|          |           |              |                   |
-|          | **Dec 4 - Conference**    |              |                   |
-|----------|-----------|--------------|-------------------|
-| **Time** | **Title** | **Speakers** | **Organization**  |
-| 9:00       | Invited Talk        | David Aronchik           | Microsoft                |
-| 9:30       | Invited Talk        | Jacques Pienaar           | Google                |
-| 10:00       | Break        |            |                 |
-| 10:15       | Bringing Vitis-AI Hardware Acceleration to TVM for Cloud and Edge        | Jorn Tuyls           | Xilinx                |
-| 10:35       | TVM at Alibaba        | Xiaoyong Liu           | Alibaba                |
-| 10:55       | End-to-End Performance Assessment of AI Systems with TVM and Virtual Models        | Michael J. Klaiber           | Bosch Corporate Research                |
-| 11:15       | Break        |            |                 |
-| 11:30       | TVM at Qualcomm        | Krzysztof Parzyszek           | Qualcomm                |
-| 11:50       | TVM for Edge Inference at AMD        | Mei Ye           | AMD                |
-| 12:10       | Lunch Break        |            |                 |
-| 12:50       | Ansor : Generating High-Performance Tensor Programs for Deep Learning (An auto-scheduler for TVM)        | Lianmin Zheng           | UC Berkeley                |
-| 13:10       | TVM Object System: Multi-language Support for just $19.99        | Jared Roesch           | OctoML                |
-| 13:20       | Break        |            |                 |
-| 13:40       | Lightning Talks         | Various           | Various                |
 |          |           |              |                   |
 |          | **Dec 3 - Lightning Talks**    |              |                   |
 |----------|-----------|--------------|-------------------|
@@ -85,13 +67,32 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 14:54       | Overhauling the Onnx Importer to Support Dyanmism        | Matthew Brookhart           | OctoML                |
 | 15:00       | AdaTune: Adaptive Tensor Program Compilation Made Efficient        | Menghao Li            | Microsoft                |
 |          |           |              |                   |
+|          | **Dec 4 - Conference**    |              |                   |
+|----------|-----------|--------------|-------------------|
+| **Time** | **Title** | **Speakers** | **Organization**  |
+| 9:00       | Machine Learning Attacks and how to use KubeFlow Pipelines to Defend        | David Aronchik           | Microsoft                |
+| 9:30       | MLIR and MLIR in the TensorFlow Ecosystem        | Jacques Pienaar           | Google                |
+| 10:00       | Break        |            |                 |
+| 10:15       | Bringing Vitis-AI Hardware Acceleration to TVM for Cloud and Edge        | Jorn Tuyls           | Xilinx                |
+| 10:35       | TVM at Alibaba        | Xiaoyong Liu           | Alibaba                |
+| 10:55       | End-to-End Performance Assessment of AI Systems with TVM and Virtual Models        | Michael J. Klaiber           | Bosch Corporate Research                |
+| 11:15       | Break        |            |                 |
+| 11:30       | TVM at Qualcomm        | Krzysztof Parzyszek           | Qualcomm                |
+| 11:50       | TVM for Edge Inference at AMD        | Mei Ye           | AMD                |
+| 12:10       | Lunch Break        |            |                 |
+| 12:50       | Ansor : Generating High-Performance Tensor Programs for Deep Learning (An auto-scheduler for TVM)        | Lianmin Zheng           | UC Berkeley                |
+| 13:10       | TVM Object System: Multi-language Support for just $19.99        | Jared Roesch           | OctoML                |
+| 13:20       | Break        |            |                 |
+| 13:40       | Lightning Talks         | Various           | Various                |
+| 15:00       |         |            |                 |
+|          |           |              |                   |
 |          | **Dec 4 - Lightning Talks**    |              |                   |
 |----------|-----------|--------------|-------------------|
 | **Time** | **Title** | **Speakers** | **Organization**  |
 | 13:40       | AutoTIR - Bringing Automatic Scheduling to TIR        | Junru Shao           | OctoML                |
 | 13:46       | Real-time AI on Edge Servers with TVM        | Kazutaka Morita           | NTT                |
 | 13:52       | Integrating and Simulating Hardware Accelerators in TVM        | Luis Vega           | OctoML                |
-| 13:58       | Tensorization, Scheduling and Allocation for Machine Learning Inference Accelerators        | Randy Huang           | Amazon Web Services                |
+| 13:58       | Tensorization, Scheduling and Allocation for Machine Learning Inference Accelerators        | Hongbin Zheng           | Amazon Web Services                |
 | 14:04       | AArch64 Pre-Quantized Networks Performance        | Giuseppe Rossini           | Arm                |
 | 14:10       | Hardware-aware Quantization in TVM        | Ziheng Jiang           | OctoML                |
 | 14:16       | Integrating the Arm Ethos-N NPUs into TVM        | Matthew Barrett           | Arm                |
@@ -99,6 +100,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 14:28       | Ethos-U55 : microNPU Support for uTVM        | Manupa Karunaratne           | Arm                |
 | 14:34       | Enable TVM QNN on RISC-V with Subword SIMD Computation        | Jenq-Kuen Lee           | National Tsing-Hua University, Taiwan                |
 | 14:40       | A Generic Framework Based on TVM/VTA for OpenCL-Compatible Cloud Devices        | Zhang Hao           | Fourth Paradigm Southeast Asia                |
+| 14:46       | HAWQV3: Dyadic Neural Network Quantization        | Amir Gholami           | UC Berkely                |
 
 ## TVMConf Partners
 
