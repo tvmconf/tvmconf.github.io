@@ -62,7 +62,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 14:36       | Writing Sparse Operators in TIR        | Tristan Konolige           | OctoML                |
 | 14:42       | Automatic Differentiation on Tensor Expression        | Yizhi Liu           | Amazon Web Services                |
 | 14:48       | Optimizing Automatic Tuning Process of TVM Based on Parallel Genetic Algorithm        | YuChen Feng           | Beihang University                |
-| 14:54       | Overhauling the Onnx Importer to Support Dyanmism        | Matthew Brookhart           | OctoML                |
+| 14:54       | Overhauling the Onnx Importer to Support Dyanmism        | Matthew Brookhart and Lily Orth-Smith           | OctoML                |
 | 15:00       | AdaTune: Adaptive Tensor Program Compilation Made Efficient        | Menghao Li            | Microsoft                |
 |          |           |              |                   |
 |          | **Dec 4 - Conference**    |              |                   |
