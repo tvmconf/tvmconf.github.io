@@ -25,18 +25,16 @@ advances in frameworks, compilers, systems and architecture support, security, t
 
 ## 2020 Program
 
-|          | **Dec 2 - Tutorials**    |              |                   |
-|----------|-----------|--------------|-------------------|
-| **Time** | **Title** | **Speakers** | **Organization**  |
-| 9:00       | Introduction to TVM        | Chris Hoge           | OctoML                |
-| 10:15       | TVMC: A Command-Line Driver for TVM        | Leandro Nunes           | Arm                |
-| 11:30       | Bring Your Own Codegen to TVM        | Zhi Chen           | Amazon Web Services                |
-| 13:00       | uTVM: Running the TVM Stack on Bare Metal        | Andrew Reusch           | OctoML                |
-|          |           |              |                   |
 |          | **Dec 3 - Conference**    |              |                   |
 |----------|-----------|--------------|-------------------|
 | **Time** | **Title** | **Speakers** | **Organization**  |
-| 9:00       | Keynote and Community Update        | Luis Ceze and Tianqi Chen           | OctoML                |
+| 9:00       | Keynotes and Community Update        | Luis Ceze and Tianqi Chen           | OctoML                |
+|            |                                      | Tianqi Chen                         | OctoML                |
+|            |                                      | Wilson Yu                           | AMD                   |
+|            |                                      | Jem Davies                          | Arm                   |
+|            |                                      | Kavitha Prasad                      | Sima                  |
+|            |                                      | Yida Wang                           | Amazon Web Services   |
+|            |                                      | Jason Knight                        | OctoML                |
 | 10:00       | Break        |            |                 |
 | 10:15       | TVM at AWS   | Yida Wang, Yao Wang, Wei Xiao           | Amazon Web Services          |
 | 10:45       | TVM at Imagination        | Ashutosh Parkhi           | Imagination Technologies                |
@@ -101,6 +99,14 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 14:34       | Enable TVM QNN on RISC-V with Subword SIMD Computation        | Jenq-Kuen Lee           | National Tsing-Hua University, Taiwan                |
 | 14:40       | A Generic Framework Based on TVM/VTA for OpenCL-Compatible Cloud Devices        | Zhang Hao           | Fourth Paradigm Southeast Asia                |
 | 14:46       | HAWQV3: Dyadic Neural Network Quantization        | Amir Gholami           | UC Berkely                |
+|          |           |              |                   |
+|          | **Dec 2 - Tutorials**    |              |                   |
+|----------|-----------|--------------|-------------------|
+| **Time** | **Title** | **Speakers** | **Organization**  |
+| 9:00       | Introduction to TVM        | Chris Hoge           | OctoML                |
+| 10:15       | TVMC: A Command-Line Driver for TVM        | Leandro Nunes           | Arm                |
+| 11:30       | Bring Your Own Codegen to TVM        | Zhi Chen           | Amazon Web Services                |
+| 1:00       | uTVM: Running the TVM Stack on Bare Metal        | Andrew Reusch           | OctoML                |
 
 ## TVMConf Partners
 
