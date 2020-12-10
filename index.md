@@ -100,7 +100,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 13:52       | [Integrating and Simulating Hardware Accelerators in TVM](https://youtu.be/GE9v_8v-2Vw?t=840)        | Luis Vega           | OctoML                |
 | 13:58       | [Tensorization, Scheduling and Allocation for Machine Learning Inference Accelerators](https://youtu.be/GE9v_8v-2Vw?t=1254)        | Hongbin Zheng, Randy Huang           | Amazon Web Services                |
 | 14:04       | [AArch64 Pre-Quantized Networks Performance](https://youtu.be/GE9v_8v-2Vw?t=1675)        | Giuseppe Rossini           | Arm                |
-| 14:10       | [Hardware-aware Quantization in TVM](https://youtu.be/GE9v_8v-2Vw?t=2026)        | Ziheng Jiang, OctoML; Animesh Jain, AWS           | OctoML                |
+| 14:10       | [Hardware-aware Quantization in TVM](https://youtu.be/GE9v_8v-2Vw?t=2026)        | Ziheng Jiang, Animesh Jain           | OctoML, AWS                |
 | 14:16       | [Integrating the Arm Ethos-N NPUs into TVM](https://youtu.be/GE9v_8v-2Vw?t=2409)        | Matthew Barrett           | Arm                |
 | 14:22       | [Running AI WASM Model Securely in Sandbox using TVM and Wasmtime](https://youtu.be/GE9v_8v-2Vw?t=2779)        | Leon Wang           | Huawei                |
 | 14:28       | [Ethos-U55 : microNPU Support for uTVM](https://youtu.be/GE9v_8v-2Vw?t=3086)        | Manupa Karunaratne           | Arm                |
