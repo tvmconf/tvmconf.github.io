@@ -89,7 +89,7 @@ advances in frameworks, compilers, systems and architecture support, security, t
 | 12:50       | [Ansor : Generating High-Performance Tensor Programs for Deep Learning (An auto-scheduler for TVM)](https://youtu.be/rXTeww5RatM)        | Lianmin Zheng           | UC Berkeley                |
 | 13:10       | [TVM Object System: Multi-language Support for just $19.99](https://youtu.be/-TM_EPih4Co)        | Jared Roesch           | OctoML                |
 | 13:20       | Break        |            |                 |
-| 13:40       | [Lightning Talks Day 1](https://youtu.be/ggu94hFmWFU)        | Various           | Various                |
+| 13:40       | [Lightning Talks Day 2](https://youtu.be/GE9v_8v-2Vw)        | Various           | Various                |
 | 15:00       |         |            |                 |
 |          |           |              |                   |
 |          | **Dec 4 - Lightning Talks**    |              |                   |
