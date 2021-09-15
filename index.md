@@ -11,7 +11,7 @@ description: "TVM"
 # About
 
 [Apache TVM](https://tvm.apache.org/) is an open-source deep learning compiler
-stack for CPUs, GPUs, and specialized accelerators.  It aims to close the gap
+stack for CPUs, GPUs, and specialized accelerators. It aims to close the gap
 between the productivity-focused deep learning frameworks, and the performance-
 or efficiency-oriented hardware backends.
 
@@ -27,7 +27,7 @@ acceleration.
 ## Call for Proposals
 
 [The 2021 call for proposals is now
-open!](https://forms.gle/RbpPfhTSWoWLYWiM9).  In early October, the conference
+open!](https://forms.gle/RbpPfhTSWoWLYWiM9) In early October, the conference
 review committee, including members of the Apache TVM Project Management
 Committee, will evaluate proposals, with a schedule released in mid to late
 October.
@@ -35,7 +35,7 @@ October.
 ## Code of Conduct
 
 - The Apache TVM community adheres to
-  the [Apache Software Foundation Code of Conduct](https://www.apache.org/foundation/policies/conduct.html).
+ the [Apache Software Foundation Code of Conduct](https://www.apache.org/foundation/policies/conduct.html).
 
 # TVMCon Partners
 
@@ -45,7 +45,7 @@ in-person event while creating and delivering engaging and thoughtful virtual
 content. We welcomed over 1000 registrants from across the world to a three-day
 event that hosted over 50 presentations, with every speaker available to engage
 with our live audience in active question-and-answer sessions. To date, the
-2020 TVM Conference YouTube playlist has had 17,000 unique viewers.  This year
+2020 TVM Conference YouTube playlist has had 17,000 unique viewers. This year
 we are expanding to a new, advanced virtual event platform, allowing us to
 elevate the event beyond content presentations allowing us to bring attendees,
 speakers, and sponsors together for an interactive main-event experience. We’re
@@ -58,9 +58,9 @@ the [planning committee](email:events@octoml.ai).
 ## Community Sponsor
 
 <div class="community_logo">
-    <a href="https://apache.org">
-        <img src="images/logo/asf.png" height="100"/>
-    </a>
+  <a href="https://apache.org">
+    <img src="images/logo/asf.png" height="100"/>
+  </a>
 </div>
 
 # Follow us on Twitter
