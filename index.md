@@ -27,7 +27,7 @@ acceleration.
 ## Call for Proposals
 
 [The 2021 call for proposals is now
-open!](https://forms.gle/RbpPfhTSWoWLYWiM9).  In early October, the conference
+open!](https://forms.gle/RbpPfhTSWoWLYWiM9) In early October, the conference
 review committee, including members of the Apache TVM Project Management
 Committee, will evaluate proposals, with a schedule released in mid to late
 October.
