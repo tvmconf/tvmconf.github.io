@@ -10,52 +10,57 @@ body {
 }
 
 .container {
-  width: 970px;
+  width: 100%;
+}
+
+.container1 {
+  width: 90%;
+  margin: auto;
 }
 
 #tvm-banner-container {
-  width: 100%;
-  height: 600px;
-  margin-top: -4px;
+  width: 90%;
+  height: 300px;
   background-repeat: no-repeat, no-repeat, no-repeat;
   background-position: center;
   background-size: contain;
-  background-image: url("tvmconf-2020.png"),
-     linear-gradient(5deg, #555555, #111111);
+  background-image: url("tvmcon-2021.png");
 }
 
 #tvm-banner-title  {
   margin: auto;
-  padding: 10% 0px;
-  width: 70%;
-}
-
-#tvm-banner-title p {
   font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
-  font-size: 43px;
+  width: 80%;
+  font-size: 50px;
   font-weight: 300;
-  color: white;
+  color: black;
   line-height: 50px;
   text-align: center;
-  text-shadow: -1px 1px 8px #000,
-    1px 1px 8px #000,
-    1px -1px 8px #000,
-    -1px -1px 8px #000;
 }
 
 #tvm-banner-subtitle p {
+  margin: auto;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   font-size: 24px;
+  width: 80%;
+  font-weight: 300;
+  color: black;
+  line-height: 30px;
+  text-align: center;
 }
 
 #banner-btn {
-  border: 2px solid white;
+  margin: auto;
+  width: 25%;
+  border: 2px solid black;
   font-size: 20px;
   margin-top: 50px;
-  padding: 0px 34px;
-  color: white;
+  padding: 20px;
+  color: black;
   font-weight: 400;
   background-color: transparent;
   text-shadow: none;
+  text-align: center;
 }
 
 #banner-btn:hover {
@@ -64,6 +69,7 @@ body {
   font-weight: 400;
   text-shadow: none;
 }
+
 .span14 {
   width: 970px;
 }
