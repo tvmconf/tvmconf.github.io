@@ -12,7 +12,6 @@ description: "TVM"
 
 [Apache TVM](https://tvm.apache.org/) is an open-source deep learning compiler
 stack for CPUs, GPUs, and specialized accelerators. It aims to close the gap
-
 between the productivity-focused deep learning frameworks, and the performance-
 or efficiency-oriented hardware backends.
 
