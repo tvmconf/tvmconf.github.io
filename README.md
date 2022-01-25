@@ -1,7 +1,3 @@
-# TVM Project Homepage
+# TVM Conference Archive
 
-## Serve Locally
-
-```bash
-./serve_local.sh
-```
+## A static archive of every TVM Conference Site
